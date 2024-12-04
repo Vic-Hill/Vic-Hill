@@ -1,3 +1,3 @@
 ## Bonjour ! 👋
 
-- 🌱 J'apprénds actuellement le JavaScript
+- 🌱 J'apprends actuellement le JavaScript
